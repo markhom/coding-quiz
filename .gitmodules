@@ -1,0 +1,3 @@
+[submodule "coding-quiz"]
+    path = coding-quiz
+    url = https://github.com/markhom/coding-quiz.git
